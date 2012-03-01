@@ -1,0 +1,11 @@
+.bundle
+.project
+.redcar
+db/*.sqlite3
+log/*.log
+tmp/
+tmp_orig/
+.DS_Store
+*.swp
+.env_vars
+config/database.yml
